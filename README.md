@@ -16,9 +16,9 @@ A docker file to generate an image with all the basic C++ development tools alon
 - boost (x64 triplet)
 
 
-## Download URL
+## Image URL
 Run the following command
-`docker pull address-yet-to-be-written`
+`docker pull gk487/cpp-base-image`
 
 
 > Note : If you are using the container as a development environment for VS-Code run `/vcpkg/vcpkg integrate install`. This will apply a user-wide integrate of the libraries
