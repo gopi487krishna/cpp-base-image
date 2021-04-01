@@ -1,7 +1,7 @@
 # cpp-base-image
 A docker file to generate an image with all the basic C++ development tools along with vcpkg and boost library.
 
-> Edit the dockerfile as per your need if you want only some of the development tools from the list
+> Edit the dockerfile as per your need if you want only some of the development tools from the list. Also make sure to have unix line endings for the script files.
 
 ## Base Image & Package Details:
 - Base-Image : Ubuntu 20.10
